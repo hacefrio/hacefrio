@@ -30,10 +30,6 @@
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacefrio&langs_count=10&theme=tokyonight&layout=compact" alt="hacefrio :: Top Langs" /></p>
-
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center">
 <a href="https://github.com/AVS1508">
