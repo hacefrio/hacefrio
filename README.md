@@ -39,3 +39,14 @@
 </a>
 </p>
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<br>
+
+<h2 align="center">WAKA TIME STATS :bar_chart:</h2>
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hacecalor/3c8fced2-7290-4b33-8c2e-7a3fd56e84b0.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hacecalor/931906ca-e843-497e-a779-af18417b0420.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hacecalor/84de12a8-34ce-4348-aa52-c9949ddd002a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hacecalor/3baa6691-6d86-49f8-bb90-c768e48eaff1.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@hacecalor/853063fe-efbe-400a-8bb6-977d1fc7745a.png" /></a>
+
